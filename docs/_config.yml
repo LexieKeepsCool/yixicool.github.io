@@ -20,7 +20,7 @@
 
 title: lyx聊一下
 email: yixiliu@whu.edu.cn
-description: GUI：Good-looking|Useful|Interesting
+description: GUI,Good-looking/Useful/Interesting
 baseurl: "/intro","/publication","/columns","/english" 
 url: "http://yixi.cool" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
