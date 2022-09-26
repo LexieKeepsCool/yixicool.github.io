@@ -31,6 +31,7 @@ github_username:  LexieKeepsCool
 theme: minima
 plugins:
   - jekyll-feed
+remote_theme: jekyll-theme-clean-blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
