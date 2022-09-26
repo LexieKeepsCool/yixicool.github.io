@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: lyx聊一下
+title: lyx
 email: yixiliu@whu.edu.cn
 description: GUI,Good-looking/Useful/Interesting
 baseurl: "/intro","/publication","/columns","/english" 
