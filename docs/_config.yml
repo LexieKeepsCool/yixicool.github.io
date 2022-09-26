@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: lyx
+title: lyx聊一下
 email: yixiliu@whu.edu.cn
-description: GUI,Good-looking/Useful/Interesting
+description: Good-looking, Useful, Interesting
 baseurl: "/intro","/publication","/columns","/english" 
-url: "http://yixi.cool" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  LexieKeepsCool
+url: "http://yixi.cool" 
+twitter_username: null
+github_username: LexieKeepsCool
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-remote_theme: jekyll-theme-clean-blog
+#remote_theme: jekyll-theme-clean-blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
