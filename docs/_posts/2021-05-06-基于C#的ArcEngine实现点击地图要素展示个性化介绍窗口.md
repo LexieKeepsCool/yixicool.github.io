@@ -1,6 +1,8 @@
+---
 layout: page
 title: "基于C#的ArcEngine实现点击地图要素展示个性化介绍窗口"
 permalink: /blog/20210506
+---
 
 本科的课程小实习，嘿嘿。
 # 一、简介
