@@ -1,6 +1,8 @@
+---
 layout: page
 title: "重新爱上"
 permalink: /blog/
+---
 
 现在是9月23日凌晨1点05分。
 
