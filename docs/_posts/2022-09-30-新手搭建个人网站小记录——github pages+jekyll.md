@@ -7,7 +7,7 @@ permalink: /blog/20220930
 截图：![image](https://user-images.githubusercontent.com/59736535/193208304-e77de81f-830f-4a2c-9c0c-68d0675ad7df.png)
 
 # 前言
-针对人群：没有基础/相关经验的新手们，越新越适合
+本文针对人群：没有基础/相关经验的新手们，越新越适合
 
 # silly mistakes
 	1. 宝，先学一下git，plz
@@ -28,7 +28,7 @@ permalink: /blog/20220930
 然而沉没成本使我一条路走到黑。。。
 
 # 参考资料(部分
-	1. git教程 https://www.liaoxuefeng.com/wiki/896043488029600
-	2. github官方文档 https://docs.github.com/cn/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
-	3. https://blog.csdn.net/m0_64012205/article/details/121265345?spm=1001.2014.3001.5501
+	1. [git教程]( https://www.liaoxuefeng.com/wiki/896043488029600)
+	2. [github官方文档]( https://docs.github.com/cn/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+	3. [一个经验贴](https://blog.csdn.net/m0_64012205/article/details/121265345?spm=1001.2014.3001.5501)
 
